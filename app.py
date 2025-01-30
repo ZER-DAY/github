@@ -23,4 +23,4 @@ while True:
     os.system("git push")
 
     # الانتظار لمدة ساعة (3600 ثانية)
-    time.sleep(3600)
+    time.sleep(1800)
